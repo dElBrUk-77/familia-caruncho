@@ -1,0 +1,68 @@
+[
+  {
+    "model": "profiles.profile",
+    "pk": 1,
+    "fields": {
+      "name": "Fernando Caruncho",
+      "role": "CTO & Consultor Estratégico",
+      "age": null,
+      "bio": "Guía tecnológico de la familia. Combina visión estratégica con un entusiasmo por la tecnología retro-vanguardista.",
+      "order": 1
+    }
+  },
+  {
+    "model": "profiles.profile",
+    "pk": 2,
+    "fields": {
+      "name": "María Moreno",
+      "role": "Comunicación & Marca Personal",
+      "age": null,
+      "bio": "Arquitecta visual y experta en comunicación. Define la identidad y la elegancia del núcleo familiar.",
+      "order": 2
+    }
+  },
+  {
+    "model": "profiles.profile",
+    "pk": 3,
+    "fields": {
+      "name": "Fernando",
+      "role": "Hijo",
+      "age": 17,
+      "bio": "Inteligencia y liderazgo emergente. El nexo entre la tradición familiar y las nuevas metas.",
+      "order": 3
+    }
+  },
+  {
+    "model": "profiles.profile",
+    "pk": 4,
+    "fields": {
+      "name": "Alejandra",
+      "role": "Hija",
+      "age": 15,
+      "bio": "Atención al detalle y precisión. Aporta el equilibrio y la perfección estética al equipo.",
+      "order": 4
+    }
+  },
+  {
+    "model": "profiles.profile",
+    "pk": 5,
+    "fields": {
+      "name": "Gabriela",
+      "role": "Hija",
+      "age": 13,
+      "bio": "Creatividad y sabiduría artística. Un pilar fundamental en la expresión del mundo Caruncho-Moreno.",
+      "order": 5
+    }
+  },
+  {
+    "model": "profiles.profile",
+    "pk": 6,
+    "fields": {
+      "name": "María",
+      "role": "Hija",
+      "age": 12,
+      "bio": "Talento y dedicación. Referencia de frescura y compromiso constante con el aprendizaje.",
+      "order": 6
+    }
+  }
+]
